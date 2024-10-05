@@ -58,7 +58,6 @@ class parse:
         else:
             print("int8.1 element not found")
         
-        
     def parseYAML(self):
         #parse yaml
         import yaml
